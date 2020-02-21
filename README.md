@@ -1,3 +1,2 @@
 # mldl_projects
-ml - machine learning
-dl - deap learning
+machine learning & deap learning
