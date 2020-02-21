@@ -1,2 +1,3 @@
 # mldl_projects
-4차선도
+ml - machine learning
+dl - deap learning
